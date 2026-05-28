@@ -1,0 +1,4 @@
+[background fade="0.0"]
+test_character: Hi, i'm a test character and this is just a test dialogue, to use dialogic go to the Dialogic tab on top of the window
+[wait time="2.0"]
+[end_timeline]

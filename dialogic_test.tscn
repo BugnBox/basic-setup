@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://81metc43exfg"]
+
+[ext_resource type="Script" uid="uid://dfow76rgohu27" path="res://scripts/dialogic_test.gd" id="1_87cfi"]
+
+[node name="Control" type="Control" unique_id=1940728399]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_87cfi")

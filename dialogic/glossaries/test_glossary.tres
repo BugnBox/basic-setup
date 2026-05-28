@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="DialogicGlossary" format=3 uid="uid://dd2slnia2tpwa"]
+
+[ext_resource type="Script" uid="uid://80elcodyqohb" path="res://addons/dialogic/Modules/Glossary/glossary_resource.gd" id="1_13off"]
+
+[resource]
+script = ExtResource("1_13off")
+entries = {
+"test": {
+"alternatives": ["tests"],
+"case_sensitive": true,
+"color": Color(0.42095947, 0.9453125, 0.48893118, 1),
+"name": "test",
+"text": "If you see this the glossary is working",
+"title": "Test"
+},
+"tests": "test"
+}
